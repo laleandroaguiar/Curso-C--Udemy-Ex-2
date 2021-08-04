@@ -28,6 +28,10 @@ namespace Exemple_Composition_2
             p2.AddComment(c3);
             p2.AddComment(c4);
 
+            Console.WriteLine(p1);
+
+            Console.WriteLine(p2);
+
 
         }
     }

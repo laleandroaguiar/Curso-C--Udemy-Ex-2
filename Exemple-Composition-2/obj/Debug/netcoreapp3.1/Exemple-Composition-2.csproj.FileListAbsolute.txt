@@ -1,0 +1,13 @@
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\bin\Debug\netcoreapp3.1\Exemple-Composition-2.exe
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\bin\Debug\netcoreapp3.1\Exemple-Composition-2.deps.json
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\bin\Debug\netcoreapp3.1\Exemple-Composition-2.runtimeconfig.json
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\bin\Debug\netcoreapp3.1\Exemple-Composition-2.runtimeconfig.dev.json
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\bin\Debug\netcoreapp3.1\Exemple-Composition-2.dll
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\bin\Debug\netcoreapp3.1\Exemple-Composition-2.pdb
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\obj\Debug\netcoreapp3.1\Exemple-Composition-2.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\obj\Debug\netcoreapp3.1\Exemple-Composition-2.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\obj\Debug\netcoreapp3.1\Exemple-Composition-2.AssemblyInfo.cs
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\obj\Debug\netcoreapp3.1\Exemple-Composition-2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\obj\Debug\netcoreapp3.1\Exemple-Composition-2.dll
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\obj\Debug\netcoreapp3.1\Exemple-Composition-2.pdb
+C:\Users\ACER\Documents\UDEMY\Curso-C#-Completo\cap-9\Exercicios\Exemple-Composition-2\Exemple-Composition-2\Exemple-Composition-2\obj\Debug\netcoreapp3.1\Exemple-Composition-2.genruntimeconfig.cache
